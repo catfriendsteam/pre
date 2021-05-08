@@ -1,0 +1,159 @@
+.main1 {
+  width: 900px;
+  height: 97.5%;
+  position: absolute;
+  top: 2.5%;
+  /* background-color: hotpink; */
+}
+
+.common_main {
+  width: 100%;
+  background-position: center top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+}
+
+.title1 {
+  /* height: 22%; */
+  height: 200px;
+  background-image: url(../img/page1/logo.png);
+}
+
+.sub_title1 {
+  /* height: 6%; */
+  height: 50px;
+  background-image: url(../img/page1/main1-1.png);
+}
+.description1 {
+  /* height: 3%; */
+  height: 30px;
+  background-image: url(../img/page1/main1-2.png);
+}
+.date1 {
+  /* height: 4%; */
+  height: 30px;
+  background-image: url(../img/page1/main1-3.png);
+}
+
+.youtube {
+  /* width: 65%;
+  height: 36%; */
+  width: 600px;
+  height: 350px;
+  background-color: gray;
+  margin: auto;
+}
+.pre_order_gift {
+  /* height: 25%; */
+  height: 180px;
+  background-image: url(../img/page1/item.png);
+}
+.btn1 {
+  /* height: 25%; */
+  height: 180px;
+  background-image: url(../img/page1/btns.png);
+  display: flex;
+}
+.btn {
+  flex: 1;
+}
+
+.btn img {
+  width: 200px;
+  height: auto;
+  position: relative;
+  top: 85px;
+}
+.google {
+  text-align: right;
+}
+.google img {
+  right: 15px;
+}
+.ios img {
+  right: 100px;
+}
+
+.sub_title2 {
+  /* height: 6%; */
+  height: 50px;
+  background-image: url(../img/page2/main2-1.png);
+}
+.description2 {
+  /* height: 3%; */
+  height: 30px;
+  background-image: url(../img/page2/main2-2.png);
+}
+.date2 {
+  /* height: 3%; */
+  height: 30px;
+  background-image: url(../img/page2/main2-3.png);
+}
+
+.event {
+  width: 100%;
+  /* height: 50%; */
+  height: 400px;
+  display: flex;
+}
+.guages {
+  width: 30%;
+  height: 100%;
+}
+.guage {
+  width: 20%;
+  height: 100%;
+  float: right;
+  background-image: url(../img/page2/step0.png);
+  background-size: fill;
+  background-position: center;
+}
+.steps {
+  width: 25%;
+  height: 100%;
+  float: right;
+  display: block;
+}
+.common_step {
+  height: 32%;
+  background-position: center;
+}
+
+.step1 {
+  background-image: url(../img/page2/-1.png);
+}
+.goals {
+  width: 70%;
+  height: 100%;
+}
+.common_goal {
+  height: 32%;
+  background-position: 10% center;
+}
+
+.goal1 {
+  background-image: url(../img/page2/3000명.png);
+}
+.goal2 {
+  background-image: url(../img/page2/2000명.png);
+}
+.goal3 {
+  background-image: url(../img/page2/1000명.png);
+}
+
+.official_cafe_btn {
+  /* width: 250px; */
+  height: 70px;
+  margin-top: 20px;
+  background-image: url(../img/page2/shirtcut.png);
+}
+
+/* .cute_chunbae {
+  width: 100%;
+  height: 60px;
+  background-image: url(../img/cb_cat.png);
+  background-position: 12% -5%;
+  position: relative;
+  top: -40px;
+} */
