@@ -60,15 +60,15 @@ body {
 }
 
 .tree_left {
-  background-image: url(../img/tree1.png);
+  background-image: url(../img/page1/tree1.png);
 }
 .tree_mid {
-  background-image: url(../img/tree2.png);
+  background-image: url(../img/page1/tree2.png);
   background-position: center top;
 }
 
 .tree_right {
-  background-image: url(../img/tree3.png);
+  background-image: url(../img/page1/tree3.png);
   background-position: right top;
 }
 
