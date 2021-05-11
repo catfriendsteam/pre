@@ -52,14 +52,14 @@
 .btn1 {
   /* height: 25%; */
   height: 250px;
-  background-image: url(../img/page1/btns-cb.png);
+  background-image: url(../img/page1/btns-cb2.png);
   display: flex;
 }
 .btn {
   flex: 1;
 }
 
-.btn img {
+/* .btn img {
   width: 200px;
   height: auto;
   position: relative;
@@ -73,13 +73,13 @@
 }
 .ios img {
   right: 100px;
-}
+} */
 
 .sub_title2 {
   /* height: 6%; */
   height: 50px;
   background-image: url(../img/page2/main2-1.png);
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .description2 {
   /* height: 3%; */

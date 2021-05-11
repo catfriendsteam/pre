@@ -70,15 +70,12 @@
     width: 100px;
     height: auto;
     position: relative;
-    top: 90px;
-  }
-  .ios img {
-    right: 5px;
+    top: 15vh;
   }
   .sub_title2 {
     width: 100%;
     height: 5%;
-    margin-top: 0px;
+    margin-top: 5vh;
   }
   .description2 {
     height: 3%;
@@ -90,7 +87,7 @@
     height: 30%;
   }
   .official_cafe_btn {
-    height: 30px;
+    height: 7vh;
   }
   p {
     font-size: x-small;
