@@ -1,9 +1,9 @@
 @media (max-width: 768px) {
   .pg1 {
-    height: 60%;
+    height: 60vh;
   }
   .pg2 {
-    height: 130%;
+    height: 130vh;
   }
   .mid {
     /* background-color: coral; */
@@ -22,7 +22,7 @@
     right: 0%;
   }
   .edge {
-    background-color: darkblue;
+    /* background-color: darkblue; */
   }
 
   .main1 {
@@ -60,18 +60,13 @@
   }
   .pre_order_gift {
     height: 120px;
-    margin-bottom: 0px;
+    /* margin-bottom: 0px; */
   }
   .btn1 {
-    margin-top: -5px;
+    margin-top: -5vh;
     height: 150px;
   }
-  .btn img {
-    width: 100px;
-    height: auto;
-    position: relative;
-    top: 15vh;
-  }
+
   .sub_title2 {
     width: 100%;
     height: 5%;
