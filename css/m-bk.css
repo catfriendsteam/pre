@@ -43,8 +43,17 @@
     margin-top: 20px;
     width: 100%;
     max-width: 500px;
-    height: 50%;
-    max-height: 200px;
+    height: 40%;
+    max-height: 180px;
+  }
+  .dog img {
+    height: 7vh;
+    top: 50%;
+  }
+  .cat img {
+    height: 7vh;
+    top: 50%;
+    right: 150px;
   }
   .pre_order_gift {
     height: 120px;
