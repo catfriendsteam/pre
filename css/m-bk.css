@@ -64,13 +64,13 @@
   }
   .btn1 {
     margin-top: -5px;
-    height: 120px;
+    height: 150px;
   }
   .btn img {
     width: 100px;
     height: auto;
     position: relative;
-    top: 50px;
+    top: 90px;
   }
   .ios img {
     right: 5px;

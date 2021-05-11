@@ -51,8 +51,8 @@
 }
 .btn1 {
   /* height: 25%; */
-  height: 180px;
-  background-image: url(../img/page1/btns.png);
+  height: 250px;
+  background-image: url(../img/page1/btns-cb.png);
   display: flex;
 }
 .btn {
@@ -63,7 +63,7 @@
   width: 200px;
   height: auto;
   position: relative;
-  top: 85px;
+  top: 160px;
 }
 .google {
   text-align: right;
