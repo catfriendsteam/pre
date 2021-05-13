@@ -13,6 +13,7 @@
 @media screen and (min-width: 320px) and (max-width: 500px) {
   body {
     font-size: 3vw;
+    line-height: 15px;
   }
   .pg1 {
     height: 70vh;
