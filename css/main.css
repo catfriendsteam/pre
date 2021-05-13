@@ -1,9 +1,8 @@
 .main1 {
-  width: 900px;
+  width: 800px;
   height: 97.5%;
   position: absolute;
   top: 2.5%;
-  /* background-color: hotpink; */
 }
 
 .common_main {
@@ -15,119 +14,105 @@
 }
 
 .title1 {
-  /* height: 22%; */
   height: 200px;
   background-image: url(../img/page1/logo.png);
 }
 
 .sub_title1 {
-  /* height: 6%; */
-  height: 50px;
+  height: 55px;
   background-image: url(../img/page1/main1-1.png);
 }
 .description1 {
-  /* height: 3%; */
-  height: 30px;
+  height: 35px;
   background-image: url(../img/page1/main1-2.png);
 }
 .date1 {
-  /* height: 4%; */
-  height: 30px;
+  height: 40px;
   background-image: url(../img/page1/main1-3.png);
 }
 
 .youtube {
-  /* width: 65%;
-  height: 36%; */
   width: 600px;
   height: 350px;
   background-color: gray;
   margin: auto;
 }
 .pre_order_gift {
-  /* height: 25%; */
-  height: 180px;
+  height: 250px;
   background-image: url(../img/page1/item.png);
 }
 .btn1 {
-  /* height: 25%; */
   height: 250px;
-  background-image: url(../img/page1/btns-cb2.png);
-  display: flex;
-}
-.btn {
-  flex: 1;
+  background-image: url(../img/page1/btns.png);
 }
 
-/* .btn img {
-  width: 200px;
+.btn {
+  text-decoration: none;
+}
+.btn img {
+  width: 250px;
   height: auto;
-  position: relative;
-  top: 160px;
+  margin: 20px 45px 0 45px;
 }
-.google {
-  text-align: right;
-}
-.google img {
-  right: 15px;
-}
-.ios img {
-  right: 100px;
-} */
 
 .sub_title2 {
-  /* height: 6%; */
-  height: 50px;
+  height: 55px;
   background-image: url(../img/page2/main2-1.png);
   margin-top: 100px;
 }
 .description2 {
-  /* height: 3%; */
-  height: 30px;
+  height: 35px;
   background-image: url(../img/page2/main2-2.png);
 }
 .date2 {
-  /* height: 3%; */
-  height: 30px;
+  height: 40px;
   background-image: url(../img/page2/main2-3.png);
 }
 
 .event {
   width: 100%;
-  /* height: 50%; */
-  height: 400px;
+
+  height: 500px;
   display: flex;
 }
 .guages {
-  width: 30%;
+  width: 25%;
   height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.goals {
+  width: 75%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .guage {
   width: 20%;
   height: 100%;
-  float: right;
+
   background-image: url(../img/page2/step0.png);
   background-size: fill;
   background-position: center;
+  margin: 0px;
 }
 .steps {
   width: 25%;
   height: 100%;
-  float: right;
+
   display: block;
 }
 .common_step {
   height: 32%;
   background-position: center;
+  margin: 0px;
 }
 
 .step1 {
   background-image: url(../img/page2/-1.png);
 }
-.goals {
-  width: 70%;
-  height: 100%;
-}
+
 .common_goal {
   height: 32%;
   background-position: 10% center;
@@ -143,18 +128,18 @@
   background-image: url(../img/page2/1000명.png);
 }
 
-.official_cafe_btn {
-  /* width: 250px; */
-  height: 70px;
+.official_cafe_btn img {
+  height: 100px;
   margin-top: 20px;
   background-image: url(../img/page2/shirtcut.png);
+  margin-bottom: 20px;
 }
 
-/* .cute_chunbae {
-  width: 100%;
-  height: 60px;
-  background-image: url(../img/cb_cat.png);
+.cute_chunbae {
+  width: 100px;
+  height: 100px;
+  background-image: url(../img/page1/cb_cat.png);
   background-position: 12% -5%;
   position: relative;
   top: -40px;
-} */
+}

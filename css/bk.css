@@ -2,6 +2,16 @@ html,
 body {
   width: 100%;
   height: 100%;
+  font-family: 'S-CoreDream-9Black';
+  font-size: 25px;
+  color: #843c0c;
+}
+@font-face {
+  font-family: 'S-CoreDream-9Black';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-9Black.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .pg1 {
@@ -19,7 +29,7 @@ body {
 }
 .pg2 {
   width: 100%;
-  height: 180%;
+  height: 230%;
   background: url(../img/page2/bg2.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -110,6 +120,5 @@ body {
   width: auto;
   height: 20vh;
   position: relative;
-  /* top: 0px; */
   right: 10%;
 }
