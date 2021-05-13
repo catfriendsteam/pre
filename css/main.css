@@ -32,11 +32,18 @@
 }
 
 .youtube {
-  width: 600px;
-  height: 350px;
-  background-color: gray;
-  margin: auto;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 비율인 경우. 4:3 비율인 경우 75%로 설정합니다 */
 }
+.youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .pre_order_gift {
   height: 250px;
   background-image: url(../img/page1/item.png);
