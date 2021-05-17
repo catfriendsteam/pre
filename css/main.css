@@ -10,24 +10,24 @@
   background-position: center top;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-bottom: 10px;
+  margin: 0px 0px 25px 0px;
 }
 
 .title1 {
-  height: 200px;
+  height: 180px;
   background-image: url(../img/page1/logo.png);
 }
 
 .sub_title1 {
-  height: 55px;
+  height: 50px;
   background-image: url(../img/page1/main1-1.png);
 }
 .description1 {
-  height: 35px;
+  height: 30px;
   background-image: url(../img/page1/main1-2.png);
 }
 .date1 {
-  height: 40px;
+  height: 35px;
   background-image: url(../img/page1/main1-3.png);
 }
 

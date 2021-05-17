@@ -57,6 +57,7 @@
 
   .common_main {
     display: inline-block;
+    margin: 5px 0px 5px 0px;
     width: 100%;
   }
 
@@ -67,16 +68,17 @@
   .sub_title1 {
     width: 80%;
     height: 30px;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
   }
   .description1 {
     width: 70%;
     height: 20px;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
   }
   .date1 {
     width: 60%;
     height: 25px;
+    margin-bottom: 10px;
   }
   .main2 {
     top: 0%;
