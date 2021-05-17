@@ -35,16 +35,16 @@
     right: 0%;
   }
   .dog img {
-    width: 18vw;
-    max-width: 70px;
+    width: 15vw;
+    max-width: 50px;
     height: auto;
-    top: 50%;
+    top: 60%;
   }
   .cat img {
     width: 10vw;
     height: auto;
     top: 50%;
-    right: 100px;
+    right: 10px;
   }
   .pg2 {
     height: 100%;
